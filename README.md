@@ -1,1 +1,3 @@
 # chatbot_service
+This repository contains a project as part of the "Development of Scalable Production-Grade Information and Communication Systems" course organized by FER and Inforbip. The main goal of this project was to create a chatbot service using the Spring Boot framework, following the "clean code" practice. Commentary shows parts of code that didn't follow the "clean code" practice and should be fixed in future projects. PostgreSQL database and application were separated into individual containers and started using docker-compose. Scalability was achieved by using Nginx. Having an OpenAI API key is a prerequisite for starting this project.
+
